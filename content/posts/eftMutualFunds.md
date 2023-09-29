@@ -2,6 +2,7 @@
 title: "Whether to invest in ETFs or Mutual Funds?"
 description: "Key differences between these two investment funds"
 date: 2018-04-18
+tags: [finance]
 ---
 
 Exchange-Traded Funds (ETFs) and mutual funds are both investment vehicles that allow individuals to invest in a diversified portfolio of assets, such as stocks, bonds, or other securities. However, there are several key differences between these two types of investment funds:
