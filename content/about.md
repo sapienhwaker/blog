@@ -1,28 +1,21 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+description = "Namaste"
+date = "2019-02-27"
+<!-- aliases = ["about-us","about-hugo","contact"] -->
+author = "Sapienhwaker"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello there! welcome to my personal blog.
+Here I have complied various resources which helped me learn something new and made me wiser.
+I try to read and write on various topics. The width of spectrum is considerably high, here you will get read about history, geography, maths, science, computers, sports, politics, cookery etc. Please feel free to check the tags sections to read about specific topic.
 
-Hugo makes use of a variety of open source projects including:
+About myself in one line:
+I am curios, competitive and compassionate.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+About myself in few more lines:
+I am a decent software developer. Born in Maharashtra, India. Living in California, USA.
+I am sports freak. I love to play Golf, Badminton, Cricket, Chess. I believe I am the greated Formula 1 fan.
+I love to watch formula one. I have taken lessons to fly Cessna 172. Occassionaly I do hobby flying.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+Above all, I'm a firm believer in the power of kindness and compassion. Helping others, whether through sharing knowledge, lending a helping hand, or simply being there to listen, brings immense joy to my life. Let's make the world a better place together!
